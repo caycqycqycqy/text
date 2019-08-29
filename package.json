@@ -1,0 +1,17 @@
+{
+  "name": "day08",
+  "version": "1.0.0",
+  "main": "01.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "experss": "0.0.1-security",
+    "mongodb": "^3.3.1"
+  },
+  "devDependencies": {},
+  "description": ""
+}
